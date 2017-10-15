@@ -1,0 +1,11 @@
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\consigue_empelo.csprojResolveAssemblyReference.cache
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLogin.resources
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmRegistro.resources
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\consigue_empelo.csproj.GenerateResource.Cache
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\consigue_empelo.csproj.CoreCompileInputs.cache
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Echosistem\Desktop\proyectos vs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
