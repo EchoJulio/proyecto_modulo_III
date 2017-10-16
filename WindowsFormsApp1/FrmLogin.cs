@@ -44,5 +44,39 @@ namespace WindowsFormsApp1
         {
            
         }
+
+        private void txtContrasena_Leave(object sender, EventArgs e)
+        {
+            try
+            {
+                if (txtContrasena.Text == "")
+                {
+                    txtContrasena.Text = "Contraseña";
+                    txtContrasena.PasswordChar = ' ';
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
+        private void txtContrasena_Enter(object sender, EventArgs e)
+        {
+            try
+            {
+                if (txtContrasena.Text == "Contraseña")
+                {
+                    txtContrasena.Text = "";
+                    txtContrasena.PasswordChar = '.';
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
     }
 }

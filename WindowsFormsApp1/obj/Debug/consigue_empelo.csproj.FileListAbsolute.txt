@@ -20,3 +20,4 @@ C:\Users\Echosistem\Desktop\proyectos vs\proyecto\WindowsFormsApp1\obj\Debug\con
 C:\Users\Echosistem\Desktop\proyectos vs\proyecto\WindowsFormsApp1\obj\Debug\consigue_empelo.csproj.CoreCompileInputs.cache
 C:\Users\Echosistem\Desktop\proyectos vs\proyecto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Echosistem\Desktop\proyectos vs\proyecto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Echosistem\Desktop\proyectos vs\proyecto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPerfilEmpleado.resources
